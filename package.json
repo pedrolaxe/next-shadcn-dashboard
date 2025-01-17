@@ -37,8 +37,16 @@
     "typescript": "5.2.2",
     "zod": "^3.24.1"
   },
-  "name": "my-app",
+  "name": "next-dash",
+  "author": {
+    "name": "Pedro Laxe",
+    "email": "pedro@laxe.dev",
+    "url": "https://laxe.dev"
+  },
   "private": true,
+  "repository": {
+    "url": ""
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
